@@ -1,0 +1,18 @@
+required tasks
+    1. fix column size and start from span 0 
+    2. show the image in the card
+    3. remove the dollar sing from product count section 
+    4. show the total charges.
+    5. fix the individual product price with 2 decimal places
+
+bonus marks
+    1. show how many persons took rating and average rating
+    2. fix search bar css
+    3. give a name to the page
+    4. change the color of the page 
+
+
+optional
+    1. show some information when buy now button is clicked
+    2. implement the search bar functionality
+    3. implement the details button functionality by a modal dialog or something like it
